@@ -4,7 +4,7 @@ title: About this site
 subtitle: (i.e. why bother with a blog)
 ---
 
-This site is first and foremost a place to put up an [online CV][cv.html]. In
+This site is first and foremost a place to put up an [online CV][/cv]. In
 addition, I kicked around some blog ideas and eventually landed on this one.
 
 People around me tell say I'm good at documenting code. I would tend to agree,
