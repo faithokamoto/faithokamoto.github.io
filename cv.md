@@ -28,7 +28,7 @@ goal is to turn on the sun.
 - Okamoto *et al.* 2023. Y and Mitochondrial Chromosomes in the Heterogeneous
 Stock Rat Population.
 doi:[10.1101/2023.11.29.566473](https://doi.org/10.1101/2023.11.29.566473)
-bioRxiv. [In press]
+bioRxiv. [accepted by G3]
 - Chen *et al.* [including Okamoto F] 2024. A Cost-effective, High-throughput,
 Highly Accurate Genotyping Method for Outbred Populations.
 doi:[10.1101/2024.07.17.603984](https://doi.org/10.1101/2024.07.17.603984)
