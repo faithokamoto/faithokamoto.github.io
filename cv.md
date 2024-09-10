@@ -25,10 +25,11 @@ goal is to turn on the sun.
 
 ## Publications
 
-- Okamoto *et al.* 2023. Y and Mitochondrial Chromosomes in the Heterogeneous
+- Okamoto *et al.* 2024. Y and Mitochondrial Chromosomes in the Heterogeneous
 Stock Rat Population.
-doi:[10.1101/2023.11.29.566473](https://doi.org/10.1101/2023.11.29.566473)
-bioRxiv. [accepted by G3]
+doi:[10.1093/g3journal/jkae213][Okamoto2024]
+*G3: Genes|Genomes|Genetics*
+
 - Chen *et al.* [including Okamoto F] 2024. A Cost-effective, High-throughput,
 Highly Accurate Genotyping Method for Outbred Populations.
 doi:[10.1101/2024.07.17.603984](https://doi.org/10.1101/2024.07.17.603984)
@@ -46,8 +47,8 @@ extracurricular research
 ## Work experience
 
 - **Student research assistant, [Palmer Lab](https://palmerlab.org/)**
-(September 2022—August 2024). Produced Okamoto *et al.* 2023. Also, several
-[blog posts](https://palmerlab.org/category/internal-project-writeups/).
+(September 2022—August 2024). Published a [journal article][Okamoto2024]. Also,
+several [blog posts](https://palmerlab.org/category/internal-project-writeups/).
 
 - **NREIP intern, [Naval Environmental Preventative Medicine Unit 5](https://www.med.navy.mil/Navy-and-Marine-Corps-Force-Health-Protection-Command/Field-Activities/Navy-Environmental-Preventive-Medicine-Unit-5/)**
 (June 2022—August 2022). [Code](https://github.com/faithokamoto/Pest-Data-Analysis)
@@ -62,7 +63,8 @@ extracurricular research
 
 - **BS, [Biology with a Specialization in Bioinformatics](https://biology.ucsd.edu/education/undergrad/major-minor-programs/majors/requirements/bioinformatics)**, University of California, San Diego (2021—2024)
 
-    Graduated *summa cum laude*. Performed extracurricular research under
-    [Abraham Palmer](https://palmerlab.org/), culminating in the paper "Y and
-    Mitochondrial Chromosomes in the Heterogeneous Stock Rat Population".
-    Member of [Undergraduate Bioinformatics Club](https://ubicucsd.github.io/).
+    Graduated *summa cum laude*. Performed extracurricular research in the lab
+    of Dr. [Abraham Palmer](https://palmerlab.org/). Member of the
+    [Undergraduate Bioinformatics Club](https://ubicucsd.github.io/).
+
+[Okamoto2024]: https://doi.org/10.1093/g3journal/jkae213
