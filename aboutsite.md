@@ -31,3 +31,8 @@ one-sixth for random other people to come across it. There will be no comments.
 If you have some topic you really want me to cover, email me (address in CV).
 
 (The last one-sixth may also be attributed to pure vanity. Your choice.)
+
+If you suspect I choose my topics (for a blog no one will ever read) as excuses
+to rant about coding practices that I dislike, you win a cookie. Not one on this
+website, since I don't know how to set cookies, nor one in real life, since I
+lack a cookie transporter. An imaginary cookie. Hope you like it.
