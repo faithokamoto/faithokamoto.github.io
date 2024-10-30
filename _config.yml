@@ -50,6 +50,7 @@ navbar-links:
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
+  rss: true
   github: faithokamoto
   ORCID: 0009-0007-4163-6928
   google-scholar: https://scholar.google.com/citations?hl=en&user=99UEIVAAAAAJ
