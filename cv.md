@@ -35,6 +35,11 @@ Highly Accurate Genotyping Method for Outbred Populations.
 doi:[10.1101/2024.07.17.603984](https://doi.org/10.1101/2024.07.17.603984)
 bioRxiv. [Preprint; in peer review]
 
+## Talks
+
+- ["Y and mitochondrial chromosomes in the heterogeneous stock rat population"](https://rgd.mcw.edu/rgdweb/ctc-rg2024/program.html), 
+Complex Trait Community, October 2024
+
 ## Awards
 
 - [**Regents Fellowship**](https://graddiv.ucsc.edu/financial-aid/): Stipend
