@@ -33,7 +33,7 @@ doi:[10.1093/g3journal/jkae213][Okamoto2024]
 - Chen *et al.* [including Okamoto F] 2024. A Cost-effective, High-throughput,
 Highly Accurate Genotyping Method for Outbred Populations.
 doi:[10.1101/2024.07.17.603984](https://doi.org/10.1101/2024.07.17.603984)
-bioRxiv. [Preprint; in peer review]
+bioRxiv. (In press at *G3: Genes|Genomes|Genetics*)
 
 ## Talks
 
