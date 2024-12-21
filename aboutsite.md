@@ -7,11 +7,10 @@ subtitle: (i.e. why bother with a blog)
 This is foremost a place for my [online CV](https://faithokamoto.github.io/cv/).
 In addition, I kicked around some blog ideas and eventually landed on this one.
 
-People around me tell say I'm good at documenting code. I would tend to agree,
-to the extent that I'm surrounded by scientists, who are rather famously
-terrible at writing readable code. What sets me apart is a willingness to sit
-down and pay attention to how readable my code is. I budget time to properly
-document code *as part of the time to write it*. The reason is very simple:
+People around me say I'm good at documenting code. I would tend to agree, to the
+extent that I'm surrounded by scientists, who are famously terrible at writing
+code. What sets me apart is a willingness to sit down and work on readability. I
+budget time to document code *as part of the time to write it*. Because, simply:
 
 **If no one can understand your code, it is useless for science.**
 
@@ -22,6 +21,7 @@ explain what it does, why it does that, and how it works?
 
 Wet-lab folks document their procedures for reproducibility and (if/when stuff
 goes wrong) to aid figuring out what happened. Dry-lab folks should do so too.
+See my post on [dry-lab notebooks](https://faithokamoto.github.io/2024-11-23-dry-lab-notebook/).
 
 Documenting code really isn't that hard. I'll explain, in practical terms, how
 one can do so, and what empirical benefits documentation offers. So, the blog. I
