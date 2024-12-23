@@ -2,7 +2,7 @@
 layout: post
 title: How I document code
 subtitle: A brief overview of my process
-tags: [process]
+tags: [process, last-pass]
 author: Faith Okamoto
 ---
 
