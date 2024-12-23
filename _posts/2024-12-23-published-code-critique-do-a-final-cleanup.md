@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Published Code Critique: Do a final cleanup
+title: Do a final cleanup
 subtitle: December 2024
 tags: [published-code-critique, last-pass]
 author: Faith Okamoto
