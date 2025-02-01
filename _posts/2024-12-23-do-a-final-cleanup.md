@@ -24,7 +24,7 @@ was a last pass for readability etc. then it leaves a lot to be desired.
 
 Since there's too much code to review in full I'll pull bits from the start.
 
-## Revisions
+## Critique
 
 ### Kill absolute paths with fire
 
