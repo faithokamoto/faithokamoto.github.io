@@ -11,10 +11,10 @@ scientists' code. This blog post is the first of a series. Once a month, I'll
 critique the code released by a recent paper. Hopefully concrete examples will
 make clear principles I've discussed.
 
-This month's paper: Bornbusch, S.L., Crosier, A., Gentry, L. *et al*. Fecal
-microbiota transplants facilitate post-antibiotic recovery of gut microbiota in
-cheetahs (*Acinonyx jubatus*). *Commun Biol* **7**, 1689 (2024).
-https://doi.org/10.1038/s42003-024-07361-5
+This month's paper:
+Bornbusch, SL *et al*. Fecal microbiota transplants facilitate
+post-antibiotic recovery of gut microbiota in cheetahs (*Acinonyx jubatus*).
+*Commun Biol* 2024. doi: [10.1038/s42003-024-07361-5][DOI]
 
 ## Original code
 
@@ -155,6 +155,7 @@ through, shoot me an email. Address in my [CV][CV].
 [AssignOp]: https://stackoverflow.com/questions/1741820/what-are-the-differences-between-and-assignment-operators
 [Code]: https://osf.io/8s76q
 [CV]: https://faithokamoto.github.io/cv/
+[DOI]: https://doi.org/10.1038/s42003-024-07361-5
 [Files]: https://osf.io/sp7kx/files/osfstorage
 [Organize]: https://faithokamoto.github.io/2024-11-16-organizing-files/
 [README]: https://www.makeareadme.com/
