@@ -12,7 +12,7 @@ spent the better part of a week trying to use its software.
 
 This month's paper: 
 Sumit Walia, Harsh Motwani, Kyle Smith, Russell Corbett-Detig, Yatish Turakhia, 
-"*Compressive Pangenomics Using Mutation-Annotated Networks*", bioRxiv
+Compressive Pangenomics Using Mutation-Annotated Networks. *bioRxiv*
 2024.07.02.601807; doi: [10.1101/2024.07.02.601807][Preprint]
 
 ## Original code
