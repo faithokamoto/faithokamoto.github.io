@@ -7,6 +7,9 @@ subtitle: (with some extra information)
 ORCiD: [0009-0007-4163-6928](https://orcid.org/0009-0007-4163-6928). Email:
 first initial + last name @ ucsc.edu
 
+Advisor: Dr. Benedict Paten 
+([UCSC Computational Genomics Lab](https://cglgenomics.ucsc.edu/team/))
+
 ## About me
 
 I'm Faith Okamoto, a bioinformatics PhD student who loves algorithms. At UC
