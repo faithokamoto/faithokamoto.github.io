@@ -83,6 +83,7 @@ But there's always room for improvement.
 If there's a recent paper you'd like me to look through, shoot me an email.
 Address in my [CV][CV].
 
+[CV]: https://faithokamoto.github.io/cv/
 [Code]: https://github.com/FishingNerd/hearing_acuity
 [Critique]: https://www.britannica.com/dictionary/critique
 [DataAvailability]: https://academic.oup.com/g3journal/article/15/2/jkae292/7921919#502820597
