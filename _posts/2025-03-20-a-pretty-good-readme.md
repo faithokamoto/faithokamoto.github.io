@@ -2,7 +2,7 @@
 layout: post
 title: A pretty good README
 subtitle: March 2025
-tags: [published-code-critique, documentation]
+tags: [published-code-critique, documentation, readme]
 author: Faith Okamoto
 ---
 
