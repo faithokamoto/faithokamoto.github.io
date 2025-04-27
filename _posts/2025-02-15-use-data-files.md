@@ -25,7 +25,7 @@ able to run the R Markdown and get the same results.
 
 The first thing I noticed was hard-coded data. In `Narrow-sense CLs.Rmd`:
 
-```
+```r
 # Define the data and reverse the order of frequencies
 solar_data <- data.frame(
   Frequency = factor(c(250, 500, 1000, 2000, 3000, 4000, 6000, 8000, "PTA", "HFA"), 

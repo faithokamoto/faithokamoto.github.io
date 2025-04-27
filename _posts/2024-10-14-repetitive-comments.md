@@ -18,24 +18,24 @@ If a comment adds *literally no new information* to a surface-level read of the
 code, it's repetitive. This comes in two flavors:
 
 - Reading the code in English (or another natural language)  
-    ```
+    ```python
     # Do something if the current interval overlaps the test interval
     if current_interval.overlaps(test_interval):
         do_something()
     ```
 
-    ```
+    ```python
     # Read lines from file
     fasta_file = file.readlines()
     ```
 - Stating an obvious consequence
-    ```
+    ```python
     if cur_line.has_end_char():
         # Stop early
         break
     ```
 
-    ```
+    ```python
     # Speed up
     speed += 1
     ```
@@ -62,7 +62,7 @@ comments means it's more likely people will skip the ones that matter.
 As I said: comments which actually serve a purpose. This can even include simple
 summary *of a section of code*. For example, the following are useful comments:
 
-```
+```python
 # Read command-line arguments into variables
 bed_file1 = sys.argv[1]
 bed_file2 = sys.argv[2]

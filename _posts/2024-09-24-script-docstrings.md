@@ -18,7 +18,7 @@ docstrings through [PEP 257][PEP257].
 A script docstring is a **succinct description of a script**, appearing at the
 top. In Python, it would be a string literal, e.g.
 
-```
+```python
 """Helper for genotype processing.
 
 Provides functions and constants to standardize genotype I/O.
@@ -36,7 +36,7 @@ FUNCTIONS
 My "docstrings" for bash scripts look different, and technically occur second,
 after the shebang:
 
-```
+```bash
 #!/bin/bash
 # Submit GWAS batch jobs by chromosome/trait
 # Parameters: <# of autosomes> <directory with trait files>

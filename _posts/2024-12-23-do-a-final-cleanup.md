@@ -28,7 +28,7 @@ Since there's too much code to review in full I'll pull bits from the start.
 
 ### Kill absolute paths with fire
 
-```
+```r
 #Laptop
 setwd("~/Dropbox (Personal)/Microbiome_SLB/Smithsonian/POSTDOC_RESEARCH/CHFMT_SCBI_cheetahs ABX/DATA/R")
 
@@ -47,7 +47,7 @@ results etc. [should be organized][Organize].
 
 ### Organize your imports
 
-```
+```r
 library(lme4)
 library(lmerTest)
 library(phyloseq)
@@ -82,7 +82,7 @@ chunks (e.g. labeled `# graphing utilities`, `# phylogenetics`).
 
 ### Use logical groupings
 
-```
+```r
 #load final ASV table
 otu_mat <- read.csv(file="chfmt_table5_decontam.csv") 
 otu_mat <- otu_mat %>%
@@ -116,7 +116,7 @@ the same principle of combining related things.
 
 ### Double-check lines which output results
 
-```
+```r
 ## phylogenetic tree imported from QIIME2
 ## filtered to include the 2558 ASVs minus the "unknowns"
 phy_tree_filt <- phyloseq::read_tree("chfmt_unrooted-tree.nwk")

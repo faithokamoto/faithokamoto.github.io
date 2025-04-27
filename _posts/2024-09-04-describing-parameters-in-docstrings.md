@@ -20,7 +20,7 @@ Similar constructs exist in other languages. The main idea is that important
 units of code, e.g. functions, should have in-code documentation. For example,
 this is a single line docstring:
 
-```
+```python
 def inverse_reciprocal(x: float) -> float:
     """Compute the inverse reciprocal of x."""
     return -1.0 / x
@@ -28,7 +28,7 @@ def inverse_reciprocal(x: float) -> float:
 
 And this is a multi-line docstring:
 
-```
+```python
 def calculate_total_bill(n_brownies: int, n_cookies: int) -> int:
     """Calculate the total price of a bake-sale order.
 

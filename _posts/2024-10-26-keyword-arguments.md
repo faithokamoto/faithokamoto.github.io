@@ -17,13 +17,13 @@ This concept has multiple names. In Python it's "[keyword arguments][Kwargs]",
 in R I honestly have no idea but it uses [three dots][Dots] so I call them "dot
 args". In general, it means that instead of calling some function as:
 
-```
+```python
 cluster(cleaned_matrix, 5, 1000, 42)
 ```
 
 You would instead use:
 
-```
+```python
 cluster(data=cleaned_matrix, k=5, iterations=1000, random_seed=42)
 ```
 
