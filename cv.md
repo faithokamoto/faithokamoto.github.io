@@ -41,9 +41,6 @@ October 2024
 - [**Regents Fellowship**](https://graddiv.ucsc.edu/financial-aid/): Extra
 stipend for first-year UCSC graduate students
 
-- [**Gabriele Wienhausen Biological Science Scholarship**](https://biology.ucsd.edu/education/undergrad/research/scholarships/wienhausen.html):
-Award for a UCSD biology student with a commitment to extracurricular research.
-
 ## Work experience
 
 - **Graduate researcher, [UCSC Computational Genomics Lab][CGL]**
