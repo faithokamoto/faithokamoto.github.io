@@ -38,6 +38,8 @@ October 2024
 
 ## Awards
 
+- [NHGRI](https://www.genome.gov/) [**T32 Trainee**](https://grants.nih.gov/funding/activity-codes/T32):
+Award to support PhD students working in the genome sciences
 - [**Regents Fellowship**](https://graddiv.ucsc.edu/financial-aid/): Extra
 stipend for first-year UCSC graduate students
 
