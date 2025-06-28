@@ -65,7 +65,7 @@ conversion functions which I started with.
 So I've convinced you, or you were already convinced. Great. Here is the simple
 method I used to DRY code:
 
-1. Look at code. Think about code. What do you multiple times? Choose a thing.
+1. Look at code. Think about code. What is done multiple times? Choose a thing.
 2. Write a well-documented, well-named helper which does the thing.
 3. Use your helper everywhere the thing is done.
 
