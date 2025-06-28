@@ -32,7 +32,7 @@ fail to document the first time around. After all, *you* remember what changed.
 
 This is how we end up with confusing documentation referencing outdated versions
 of the code. Which is even worse than no documentation. If a clueless person
-(e.g. you in a month) tries to follow it, they'll be confidentially wrong.
+(e.g. you in a month) tries to follow it, they'll be confidently wrong.
 
 ## What to do instead
 
