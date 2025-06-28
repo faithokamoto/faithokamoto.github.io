@@ -6,12 +6,12 @@ tags: [comments, science-meaning]
 author: Faith Okamoto
 ---
 
-Science code, at least theoretically, represents something tangile. Modeling the 
-spread of a virus in ten thousand simulated populations. Parsing gads of sensor 
-output for peaks of relevant data. Graphing statistics on tests taken across a 
-country. Because we deal with stuff that has concrete meaning, concrete and 
-defensible constraints crop up often. Often those constraints end up in code.
-When they do, they should be explained.
+Science code, at least theoretically, represents something tangible. Modeling
+the spread of a virus in simulated populations. Parsing gads of sensor output
+for peaks of relevant data. Graphing statistics on tests taken across a country.
+Because we deal with stuff that has concrete meaning, concrete and defensible
+constraints crop up often. Often those constraints end up in code. When they do,
+they should be explained.
 
 ## What science?
 
