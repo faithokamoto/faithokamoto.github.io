@@ -37,7 +37,8 @@ of the code. Which is even worse than no documentation. If a clueless person
 ## What to do instead
 
 You probably don't want to constantly update comments as the codebase evolves. 
-That's why this post is tagged [\[last-pass\]][LastPassTag]. Once the change is somewhat settled, it's time to do one more read over the relevant code. Simply
+That's why this post is tagged [\[last-pass\]][LastPassTag]. Once the change is
+somewhat settled, it's time to do one more read over the relevant code. Simply
 double-check the documentation and bring it up to date.
 
 It's annoying. But it pays off. I promise.
