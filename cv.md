@@ -57,8 +57,8 @@ several [blog posts](https://palmerlab.org/category/internal-project-writeups/).
 (June 2022—August 2022). [Code](https://github.com/faithokamoto/Pest-Data-Analysis)
 (sans classified data) on GitHub.
 
-- **Freelance tutor, [Wyzant](https://www.wyzant.com/)** (July 2021—present).
-[Profile](https://www.wyzant.com/match/tutor/88491196)
+- **Freelance tutor, [Wyzant](https://www.wyzant.com/)**
+(July 2021—December 2024).
 
 ## Education
 
