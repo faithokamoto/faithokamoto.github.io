@@ -104,11 +104,10 @@ Address in my [CV][CV].
 
 ----
 
-<sup>1</sup> :D  
-<sup>2</sup> And, hopefully at the start of any relevant script? Many of the
-scripts in the [third code dump][Code3] introduce new libraries in the middle of
-the file, even if they have a section at the top set aside for "preparing" the
-environment.
+1. :D  
+2. And, hopefully at the start of any relevant script? Many of the scripts in
+the [third code dump][Code3] introduce new libraries in the middle of the file,
+even if they have a section at the top set aside for preparing the environment.
 
 [Code1]: https://figshare.com/s/d7de3f42aa9e2423bfb5
 [Code2]: https://figshare.com/s/291f499a2b7907dfb62b

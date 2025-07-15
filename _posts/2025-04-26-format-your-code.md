@@ -176,10 +176,8 @@ Address in my [CV][CV].
 
 ----
 
-<sup>1</sup> The brief bit of Mendelian genetics I learned in 9th grade is why I
-started focusing on biology.  
-<sup>2</sup> I have to admit I have no idea how this works for people who rely
-on [screen readers][ScreenReaders].
+1. The Mendelian genetics from 9th grade bio is why I fell in love with biology.
+2. I have no idea how this works for [screen readers][ScreenReaders].
 
 [CritiqueTag]: https://faithokamoto.github.io/tags/#published-code-critique
 [Code]: https://github.com/ShifengCHENG-Laboratory/MendelPeaG2P

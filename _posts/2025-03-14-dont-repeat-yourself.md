@@ -73,11 +73,9 @@ Congrats! Your code is one bit DRY-er. Repeat until readable enough.
 
 ----
 
-<sup>1</sup> what kind of person do you *think* would write a blog about coding
-best practices?  
-<sup>2</sup> hah hah aren't the coders funny  
-<sup>3</sup> I couldn't resist (this is why I shouldn't allow myself to have
-footnotes)
+1. What kind of person do you *think* would blog about coding best practices?  
+2. hah hah aren't the coders funny  
+3. I couldn't resist (this is why I shouldn't allow myself to have footnotes)
 
 [DRY]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 [PR]: https://github.com/TurakhiaLab/panman/pull/46

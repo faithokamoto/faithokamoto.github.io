@@ -61,16 +61,17 @@ favor the builtin library [unittest][unittestLib]. On GitHub you can set up
 
 ---
 
-<sup>1</sup> I mean, *all* code more complicated than the intro-intro stuff like
-"Hello World" has bugs. But if you profess to have code that doesn't need tests, then the chance of lacking bugs drops from "finding a unicorn" to negative.  
-<sup>2</sup> If you don't care, then, well, I'm honestly not sure why you're
-reading this. Why care about style if you're fine with actual errors?  
-<sup>3</sup> Yes, I spent a week of my 1.5wk vacation hyper-focusing on a script
-for work. Yes, this included weekends. Yes, "weekends" includes the day I went
-to my friends' wedding. In my defense, I enjoyed it? The coding and the wedding,
-I mean. Both. Yeah. That's my story and I'm sticking with it.  
-<sup>4</sup> Ah, Python. I miss you. Especially dealing with C++'s... quirks,
-I'll call them quirks.
+1. I mean, *all* code more complicated than the intro stuff like "Hello World"
+has bugs. But if you profess to have code that doesn't need tests, then the
+chance of lacking bugs drops from "finding a unicorn" to negative.  
+2. If you don't care, then, well, I'm honestly not sure why you're reading this
+blog. Why care about style if you're fine with actual errors?  
+3. Yes, I spent a week of my 1.5wk vacation hyper-focusing on a script for work.
+Yes, this included weekends. Yes, "weekends" includes the day I went to my
+friends' wedding. In my defense, I enjoyed it? The coding and the wedding, I
+mean. Both. Yeah. That's my story and I'm sticking with it.  
+4. Ah, Python. I miss you. Especially dealing with C++'s... quirks, I'll call
+them quirks. More polite than what I would normally say.
 
 [AlignmentTest]: https://github.com/vgteam/vg/blob/379c37db5d3f0f7f1a084782ce72dfcad1d6f60d/src/unittest/alignment.cpp#L19
 [CompileTest]:  https://github.com/vgteam/vg/pull/4653

@@ -114,11 +114,9 @@ Address in my [CV][CV].
 
 ----
 
-<sup>1</sup> I do volunteer copyediting. I've seen all sorts of formatting.  
-<sup>2</sup> Same as this blog, actually. I type in my VS code with a preview on
-the side.  
-<sup>3</sup> I also use Stack Exchange's [question editor][AskQuestion] because
-I like the buttons.
+1. I do volunteer copyediting. I've seen all sorts of formatting.  
+2. Same as this blog, actually. I type in my VS code with a preview on the side.  
+3. I also use Stack Exchange's [editor][AskQuestion] because I like the buttons.
 
 [AdvanceArticles]: https://academic.oup.com/bioinformatics/advance-articles
 [AskQuestion]: https://meta.stackexchange.com/questions/ask
