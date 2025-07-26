@@ -55,9 +55,9 @@ If you want your code to be able to do something, then you need to test it.
 
 Well, that's a whole post in itself. A post I'll probably write at some point,
 but still, too much for now. Look up "unit test \<language\>" on your favorite
-search engine. There are more ways than I know. In Python<sup>4</sup> I
-favor the builtin library [unittest][unittestLib]. On GitHub you can set up
-[automated workflows][GitHubTest]. Can't hurt to test it out, yeah?
+search engine. There are more ways than I know. In Python<sup>4</sup> I favor
+[pytest][pytest]. On GitHub you can set up [automated workflows][GitHubTest]. 
+Can't hurt to test it out, yeah?
 
 ---
 
@@ -77,11 +77,11 @@ them quirks. More polite than what I would normally say.
 [CompileTest]:  https://github.com/vgteam/vg/pull/4653
 [GitHubTest]: https://docs.github.com/en/actions/how-tos/writing-workflows/building-and-testing
 [OptionTestingPR]: https://github.com/vgteam/vg/pull/4654
+[pytest]: https://docs.pytest.org/en/stable/
 [ScriptsTest]: https://github.com/vgteam/vg/blob/master/test/t/99_scripts.t
 [TestDrivenDevelopment]: https://en.wikipedia.org/wiki/Test-driven_development
 [TestingTag]: https://faithokamoto.github.io/tags/#testing
 [ToyDataBlog]: https://faithokamoto.github.io/2025-03-02-the-art-of-toy-data/
-[unittestLib]: https://docs.python.org/3/library/unittest.html
 [ViewTest]: https://github.com/vgteam/vg/blob/master/test/t/03_vg_view.t
 [vg]: https://github.com/vgteam/vg
 [vgTests]: https://github.com/vgteam/vg/tree/master/test/t
