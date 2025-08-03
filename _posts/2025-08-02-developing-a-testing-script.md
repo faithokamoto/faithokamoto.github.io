@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Developing a testing script
-subtitle: July 2025
+subtitle: Yes, tests are still development
 tags: [testing]
 author: Faith Okamoto
 ---
