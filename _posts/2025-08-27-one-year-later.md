@@ -6,7 +6,7 @@ tags: [meta]
 author: Faith Okamoto
 ---
 
-A year ago today, I published [my first blog post][ProcessBlog] here. I wasn't
+A year ago, I published [my first blog post][ProcessBlog] here. I wasn't
 sure how long I would keep going, but clearly I haven't stopped yet! I'm about
 to start on my second year as a PhD student. Soon I'll be helping to run a
 bootcamp for incoming PhD students. The same bootcamp I took around a year ago.
