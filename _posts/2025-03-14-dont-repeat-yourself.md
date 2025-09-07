@@ -2,7 +2,7 @@
 layout: post
 title: Don't Repeat Yourself
 subtitle: herein I repeat standard advice
-tags: [last-pass, process, style]
+tags: [last-pass, process, style, dry]
 author: Faith Okamoto
 ---
 
