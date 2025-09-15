@@ -7,6 +7,7 @@ subtitle: Most recent first
 Posts with an asterisk after their title are part of my [series][CritiqueTag] of 
 critiques of published code.
 
+- 14 Sep 2025: [Optimization vs. readability](https://faithokamoto.github.io/2025-09-14-optimization-vs-readability/)
 - 6 Sep 2025: [Extracting the core](https://faithokamoto.github.io/2025-09-06-extracting-the-core/)
 - 27 Aug 2025: [One year later](https://faithokamoto.github.io/2025-08-27-one-year-later/)
 - 16 Aug 2025: [Tell me how to install this](https://faithokamoto.github.io/2025-08-16-tell-me-how-to-install-this/)*

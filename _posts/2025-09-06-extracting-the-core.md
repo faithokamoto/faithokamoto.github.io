@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Extracting the core
-subtitle: Looking back
+subtitle: More ways to DRY that code
 tags: [refactoring, dry]
 author: Faith Okamoto
 ---
