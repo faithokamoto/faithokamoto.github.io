@@ -7,6 +7,9 @@ subtitle: Most recent first
 Posts with an asterisk after their title are part of my [series][CritiqueTag] of 
 critiques of published code.
 
+## 2025
+
+- 22 Sep 2025: [Documentation and mega-tools](https://faithokamoto.github.io/2025-09-22-documentation-and-mega-tools/)*
 - 14 Sep 2025: [Optimization vs. readability](https://faithokamoto.github.io/2025-09-14-optimization-vs-readability/)
 - 6 Sep 2025: [Extracting the core](https://faithokamoto.github.io/2025-09-06-extracting-the-core/)
 - 27 Aug 2025: [One year later](https://faithokamoto.github.io/2025-08-27-one-year-later/)
@@ -32,6 +35,9 @@ critiques of published code.
 - 25 Jan 2025: [Reproduce your work](https://faithokamoto.github.io/2025-01-25-reproduce-your-work/)
 - 10 Jan 2025: [Useful error messages](https://faithokamoto.github.io/2025-01-10-useful-error-messages/)
 - 4 Jan 2025: [In praise of writing documentation](https://faithokamoto.github.io/2025-01-04-in-praise-of-writing-documentation/)
+
+## 2024
+
 - 23 Dec 2024: [Do a final cleanup](https://faithokamoto.github.io/2024-12-23-do-a-final-cleanup/)*
 - 7 Dec 2024: [Explain your science](https://faithokamoto.github.io/2024-12-07-explain-your-science/)
 - 23 Nov 2024: [Keeping a "dry lab" lab notebook](https://faithokamoto.github.io/2024-11-23-dry-lab-notebook/)
