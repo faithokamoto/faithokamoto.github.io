@@ -22,6 +22,9 @@ will look at anyhow.
 
 ## Critique
 
+*Standard disclaimer: issues with published code are not necessarily anyone's
+fault, and often are due to nothing more nefarious than time constraints.*
+
 ### Use clearly-structured sections
 
 Hallelujah, section headings.<sup>1</sup>

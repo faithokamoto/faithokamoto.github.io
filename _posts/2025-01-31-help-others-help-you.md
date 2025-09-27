@@ -24,6 +24,9 @@ the community.
 
 ## Critique
 
+*Standard disclaimer: issues with published code are not necessarily anyone's
+fault, and often are due to nothing more nefarious than time constraints.*
+
 ### Keep your documentation up to date
 
 I'll be approaching this critique from the perspective of someone who wants to

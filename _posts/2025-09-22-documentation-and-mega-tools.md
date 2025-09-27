@@ -29,7 +29,7 @@ To be extra-super-clear, since I am talking about my workplace here, nothing
 that I'm about to critique is anyone's *fault*. Nor does it necessarily reflect
 badly on anyone.
 
-**Documentation** is hard. Especially for such a big tool. Especially with 
+**Documentation is hard**. Especially for such a big tool. Especially with 
 deadlines (conference etc.). "Whoops, ran out of time to make a wiki page." And 
 surely someone will get to it later. Right?<sup>3</sup>
 

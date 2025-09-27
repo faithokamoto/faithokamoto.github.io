@@ -22,6 +22,9 @@ Figshare.
 
 ## Critique
 
+*Standard disclaimer: issues with published code are not necessarily anyone's
+fault, and often are due to nothing more nefarious than time constraints.*
+
 The Figshare, as best I can figure<sup>1</sup>, has no README. My feelings about
 that are [documented][READMETag]; this paper proves a convenient object lesson
 in what happens when code is released into the wild without documentation.

@@ -26,6 +26,9 @@ Since there's too much code to review in full I'll pull bits from the start.
 
 ## Critique
 
+*Standard disclaimer: issues with published code are not necessarily anyone's
+fault, and often are due to nothing more nefarious than time constraints.*
+
 ### Kill absolute paths with fire
 
 ```r

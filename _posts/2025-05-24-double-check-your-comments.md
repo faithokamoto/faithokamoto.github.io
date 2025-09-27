@@ -20,6 +20,9 @@ focusing on that script: [`compute_bse_nest.py`][Script].
 
 ## Critique
 
+*Standard disclaimer: issues with published code are not necessarily anyone's
+fault, and often are due to nothing more nefarious than time constraints.*
+
 My first critique post was also focused on [doing a final clean-up][Cleanup].
 This time I'll just deal with the use of comments in code released to others.
 

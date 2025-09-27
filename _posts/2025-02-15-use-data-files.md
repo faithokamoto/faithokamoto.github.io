@@ -21,6 +21,9 @@ able to run the R Markdown and get the same results.
 
 ## Critique
 
+*Standard disclaimer: issues with published code are not necessarily anyone's
+fault, and often are due to nothing more nefarious than time constraints.*
+
 ### Don't hard-code data into code files
 
 The first thing I noticed was hard-coded data. In `Narrow-sense CLs.Rmd`:

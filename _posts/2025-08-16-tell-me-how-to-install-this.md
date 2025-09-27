@@ -22,6 +22,9 @@ This paper's code is on [GitHub][Code].
 
 ## Critique
 
+*Standard disclaimer: issues with published code are not necessarily anyone's
+fault, and often are due to nothing more nefarious than time constraints.*
+
 ### Wait, this table of contents is lying
 
 The first thing that most people will read is the [README][README]. That's its 

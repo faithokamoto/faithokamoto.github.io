@@ -20,6 +20,9 @@ This paper's code is on [GitHub][Code].
 
 ## Critique
 
+*Standard disclaimer: issues with published code are not necessarily anyone's
+fault, and often are due to nothing more nefarious than time constraints.*
+
 ### Yay for human-readable summaries!
 
 I'm about to critique bad comments, so it only seems fair to mention instances

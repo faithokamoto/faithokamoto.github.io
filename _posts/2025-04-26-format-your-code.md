@@ -18,6 +18,9 @@ This paper's code is on [GitHub][Code].
 
 ## Critique
 
+*Standard disclaimer: issues with published code are not necessarily anyone's
+fault, and often are due to nothing more nefarious than time constraints.*
+
 ### Be specific about dependencies
 
 Off the main through-line of this post, but I had to mention it. The directory
