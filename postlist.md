@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2025
 
+- 27 Sep 2025: [Things I care about too much](https://faithokamoto.github.io/2025-09-27-things-i-care-about-too-much/)
 - 22 Sep 2025: [Documentation and mega-tools](https://faithokamoto.github.io/2025-09-22-documentation-and-mega-tools/)*
 - 14 Sep 2025: [Optimization vs. readability](https://faithokamoto.github.io/2025-09-14-optimization-vs-readability/)
 - 6 Sep 2025: [Extracting the core](https://faithokamoto.github.io/2025-09-06-extracting-the-core/)
