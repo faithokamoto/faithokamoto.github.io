@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2025
 
+- 1 Nov 2025: [The joy of tidying code](https://faithokamoto.github.io/2025-11-01-the-joy-of-tidying-code/)
 - 25 Oct 2025: [Revamping documentation](https://faithokamoto.github.io/2025-10-25-revamping-documentation/)
 - 12 Oct 2025: [Examining demo code samples](https://faithokamoto.github.io/2025-10-12-examining-demo-code-samples/)*
 - 4 Oct 2025: [Config files vs. hardcoding](https://faithokamoto.github.io/2025-10-04-config-files-vs-hardcoding/)
