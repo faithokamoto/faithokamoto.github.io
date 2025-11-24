@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Examining demo code samples
-subtitle: August 2025
+subtitle: October 2025
 tags: [published-code-critique, examples]
 author: Faith Okamoto
 ---

@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2025
 
+- 23 Nov 2025: [But why?](https://faithokamoto.github.io/2025-11-23-but-why/)*
 - 8 Nov 2025: [How verbose is that log?](https://faithokamoto.github.io/2025-11-08-how-verbose-is-that-log/)
 - 1 Nov 2025: [The joy of tidying code](https://faithokamoto.github.io/2025-11-01-the-joy-of-tidying-code/)
 - 25 Oct 2025: [Revamping documentation](https://faithokamoto.github.io/2025-10-25-revamping-documentation/)
