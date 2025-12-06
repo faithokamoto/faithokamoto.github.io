@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2025
 
+- 6 Dec 2025: [Documenting the magic button](https://faithokamoto.github.io/2025-12-06-documenting-the-magic-button/)
 - 23 Nov 2025: [But why?](https://faithokamoto.github.io/2025-11-23-but-why/)*
 - 8 Nov 2025: [How verbose is that log?](https://faithokamoto.github.io/2025-11-08-how-verbose-is-that-log/)
 - 1 Nov 2025: [The joy of tidying code](https://faithokamoto.github.io/2025-11-01-the-joy-of-tidying-code/)
