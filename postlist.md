@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2025
 
+- 13 Dec 2025: [Understanding an API](https://faithokamoto.github.io/2025-12-13-understanding-an-api/)*
 - 6 Dec 2025: [Documenting the magic button](https://faithokamoto.github.io/2025-12-06-documenting-the-magic-button/)
 - 23 Nov 2025: [But why?](https://faithokamoto.github.io/2025-11-23-but-why/)*
 - 8 Nov 2025: [How verbose is that log?](https://faithokamoto.github.io/2025-11-08-how-verbose-is-that-log/)
