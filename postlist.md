@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2025
 
+- 27 Dec 2025: [Quality of life updates](https://faithokamoto.github.io/2025-12-27-quality-of-life-updates/)
 - 13 Dec 2025: [Understanding an API](https://faithokamoto.github.io/2025-12-13-understanding-an-api/)*
 - 6 Dec 2025: [Documenting the magic button](https://faithokamoto.github.io/2025-12-06-documenting-the-magic-button/)
 - 23 Nov 2025: [But why?](https://faithokamoto.github.io/2025-11-23-but-why/)*
