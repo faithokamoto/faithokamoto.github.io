@@ -7,6 +7,10 @@ subtitle: Most recent first
 Posts with an asterisk after their title are part of my [series][CritiqueTag] of 
 critiques of published code.
 
+## 2026
+
+- 27 Dec 2025: [Schedule update](https://faithokamoto.github.io/2026-01-03-schedule-update/)
+
 ## 2025
 
 - 27 Dec 2025: [Quality of life updates](https://faithokamoto.github.io/2025-12-27-quality-of-life-updates/)
