@@ -35,6 +35,13 @@ doi:[10.1093/g3journal/jkae291](https://doi.org/10.1093/g3journal/jkae291)
 - [**"Y and mitochondrial chromosomes in the heterogeneous stock rat population"**](https://rgd.mcw.edu/rgdweb/common/abstracts/presentation/October-3rd/Session-1/4-Okamoto.pdf), 
 [Complex Trait Community](https://rgd.mcw.edu/rgdweb/ctc-rg2024/program.html),
 October 2024
+- **"Rapid, accurate long-read mapping to large pangenome graphs with vg Giraffe"**,
+UC Santa Cruz Long Reads Group, October 2025
+
+## Posters
+
+- [**"Improved Chaining in non-DAG Regions for Long Read Giraffe"**](./assets/pdf/Okamoto_2025_Improved_Chaining_in_non_DAG_Regions_for_Long_Read_Giraffe_HPRC_poster.pdf),
+HPRC 2025 Annual Meeting, October 2025
 
 ## Awards
 
