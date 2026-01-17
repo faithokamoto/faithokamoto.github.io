@@ -9,7 +9,8 @@ critiques of published code.
 
 ## 2026
 
-- 27 Dec 2025: [Schedule update](https://faithokamoto.github.io/2026-01-03-schedule-update/)
+- 17 Jan 2026: [Spacing out](https://faithokamoto.github.io/2025-01-17-spacing-out/)*
+- 3 Jan 2026: [Schedule update](https://faithokamoto.github.io/2026-01-03-schedule-update/)
 
 ## 2025
 
