@@ -21,6 +21,11 @@ genomics revolution and I want to be a part of it.
 
 ## Publications
 
+- Chang *et al.* [including Okamoto F] 2025. Rapid, accurate long- and 
+short-read mapping to large pangenome graphs with vg Giraffe.
+*bioRxiv*.
+doi:[10.1101/2025.09.29.678807](https://doi.org/10.1101/2025.09.29.678807)
+
 - Okamoto *et al.* 2024. Y and Mitochondrial Chromosomes in the Heterogeneous
 Stock Rat Population. *G3: Genes|Genomes|Genetics*.
 doi:[10.1093/g3journal/jkae213][Okamoto2024]
