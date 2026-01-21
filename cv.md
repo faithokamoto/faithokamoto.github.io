@@ -11,13 +11,12 @@ Advisor: Dr. Benedict Paten ([UCSC Computational Genomics Lab][CGL])
 
 ## About me
 
-I'm Faith Okamoto, a bioinformatics PhD student who loves algorithms. I hope to
-explore methods to better detect and genotype structural variation. Structural
-variants are often much more potent than easy-to-genotype variants, e.g. single
-nucleotide polymorphisms (SNPs). Yet, standard genetic analyses use SNPs because
-of how easily, cheaply, and accurately they can be genotyped. I want to bring
-more complex variants to the same level of access. We're on the brink of a
-genomics revolution and I want to be a part of it.
+I'm Faith Okamoto, a bioinformatics PhD student who loves algorithms. I work on
+methods to better handle complex genomic regions. To that end I'm extending and
+applying the [vg toolkit][vg]. Pangenome sequence-graph references are supposed
+to better represent genetic variation compared to linear references. But
+pangenomic algorithms aren't quite as mature as we'd like them to be, so they
+still struggle with those complex regions. My job? Fix that.
 
 ## Publications
 
@@ -25,11 +24,9 @@ genomics revolution and I want to be a part of it.
 short-read mapping to large pangenome graphs with vg Giraffe.
 *bioRxiv*.
 doi:[10.1101/2025.09.29.678807](https://doi.org/10.1101/2025.09.29.678807)
-
 - Okamoto *et al.* 2024. Y and Mitochondrial Chromosomes in the Heterogeneous
 Stock Rat Population. *G3: Genes|Genomes|Genetics*.
 doi:[10.1093/g3journal/jkae213][Okamoto2024]
-
 - Chen *et al.* [including Okamoto F] 2024. A Cost-effective, High-throughput,
 Highly Accurate Genotyping Method for Outbred Populations.
 *G3: Genes|Genomes|Genetics*.
@@ -41,7 +38,8 @@ doi:[10.1093/g3journal/jkae291](https://doi.org/10.1093/g3journal/jkae291)
 [Complex Trait Community](https://rgd.mcw.edu/rgdweb/ctc-rg2024/program.html),
 October 2024
 - **"Rapid, accurate long-read mapping to large pangenome graphs with vg Giraffe"**,
-UC Santa Cruz Long Reads Group, October 2025
+UC Santa Cruz Long Reads Group, October 2025 (Also presented part of an
+identically named talk at the HPRC 2025 Annual Meeting)
 
 ## Posters
 
@@ -54,6 +52,11 @@ HPRC 2025 Annual Meeting, October 2025
 Award to support PhD students working in the genome sciences
 - [**Regents Fellowship**](https://graddiv.ucsc.edu/financial-aid/): Extra
 stipend for first-year UCSC graduate students
+
+## Service
+
+- [Reviewer](./assets/pdf/Bioinformatics_reviewer_2025.pdf) for 
+[*Bioinformatics*](https://academic.oup.com/bioinformatics)
 
 ## Work experience
 
@@ -85,3 +88,4 @@ several [blog posts](https://palmerlab.org/category/internal-project-writeups/).
 [CGL]: https://cglgenomics.ucsc.edu/team/
 [PalmerLab]: https://palmerlab.org/
 [Okamoto2024]: https://doi.org/10.1093/g3journal/jkae213
+[vg]: https://github.com/vgteam/vg
