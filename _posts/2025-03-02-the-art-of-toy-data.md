@@ -2,7 +2,7 @@
 layout: post
 title: The art of toy data
 subtitle: How and why to make small test data
-tags: [testing, documentation]
+tags: [testing, documentation, examples]
 author: Faith Okamoto
 ---
 

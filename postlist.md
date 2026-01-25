@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2026
 
+- 24 Jan 2026: [Sometimes the example should be big(ger)](https://faithokamoto.github.io/2026-01-24-sometimes-the-example-should-be-bigger/)
 - 17 Jan 2026: [Spacing out](https://faithokamoto.github.io/2025-01-17-spacing-out/)*
 - 3 Jan 2026: [Schedule update](https://faithokamoto.github.io/2026-01-03-schedule-update/)
 
