@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2026
 
+- 21 Feb 2026: [Finding time for documentation](https://faithokamoto.github.io/2026-02-21-your-finding-time-for-documentation/)*
 - 7 Feb 2026: [Your abbreviations are not obvious](https://faithokamoto.github.io/2026-02-07-your-abbreviations-are-not-obvious/)*
 - 24 Jan 2026: [Sometimes the example should be big(ger)](https://faithokamoto.github.io/2026-01-24-sometimes-the-example-should-be-bigger/)
 - 17 Jan 2026: [Spacing out](https://faithokamoto.github.io/2025-01-17-spacing-out/)*
