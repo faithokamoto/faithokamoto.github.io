@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2026
 
+- 21 Mar 2026: [Reading some tests](https://faithokamoto.github.io/2026-03-21-reading-some-tests/)*
 - 7 Mar 2026: [Putting scripts under version control](https://faithokamoto.github.io/2026-03-07-putting-scripts-under-version-control/)
 - 21 Feb 2026: [Finding time for documentation](https://faithokamoto.github.io/2026-02-21-your-finding-time-for-documentation/)
 - 7 Feb 2026: [Your abbreviations are not obvious](https://faithokamoto.github.io/2026-02-07-your-abbreviations-are-not-obvious/)*
