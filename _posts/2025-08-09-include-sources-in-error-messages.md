@@ -2,7 +2,7 @@
 layout: post
 title: Include sources in error messages
 subtitle: So what failed, exactly?
-tags: [errors]
+tags: [errors, screed]
 author: Faith Okamoto
 ---
 

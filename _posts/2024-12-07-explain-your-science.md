@@ -2,7 +2,7 @@
 layout: post
 title: Explain your science
 subtitle: Including your assumptions
-tags: [comments, science-meaning]
+tags: [comments, science-meaning, screed]
 author: Faith Okamoto
 ---
 
