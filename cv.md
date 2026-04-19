@@ -43,8 +43,10 @@ identically named talk at the HPRC 2025 Annual Meeting)
 
 ## Posters
 
-- [**"Improved Chaining in non-DAG Regions for Long Read Giraffe"**](./assets/pdf/Okamoto_2025_Improved_Chaining_in_non_DAG_Regions_for_Long_Read_Giraffe_HPRC_poster.pdf),
-HPRC 2025 Annual Meeting, October 2025
+- [**"Improved Chaining in non-DAG Regions for Long Read Giraffe"**](./assets/pdf/Okamoto_2026_Improved_Chaining_in_non_DAG_Regions_for_Long_Read_Giraffe_NHGRI_poster.pdf),
+ presented at NHGRI Training Conference, March 2026
+ ([prior version](./assets/pdf/Okamoto_2025_Improved_Chaining_in_non_DAG_Regions_for_Long_Read_Giraffe_HPRC_poster.pdf)
+ presented at HPRC 2025 Annual Meeting, October 2025)
 
 ## Awards
 
@@ -56,7 +58,9 @@ stipend for first-year UCSC graduate students
 ## Service
 
 - [Reviewer](./assets/pdf/Bioinformatics_reviewer_2025.pdf) for 
-[*Bioinformatics*](https://academic.oup.com/bioinformatics)
+[*Bioinformatics*](https://academic.oup.com/bioinformatics) (2025)
+- Graduate Student Association Representative on UC Santa Cruz's
+  [Police Accountability Board](https://policeaccountability.ucsc.edu/) (2025—)
 
 ## Work experience
 
