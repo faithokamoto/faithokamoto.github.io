@@ -15,7 +15,7 @@ where we (as in vg team) are actually trying to work with the authors. Thus
 it would behoove me to have a better idea of what they're doing.
 
 This month's paper: Jiménez-Blanco A *et al*. Theseus: Fast and Optimal 
-Affine-Gap Sequence-to-Graph Alignmentt. *bioRxiv* 2026. 
+Affine-Gap Sequence-to-Graph Alignment. *bioRxiv* 2026. 
 doi: [10.64898/2026.02.12.705572][DOI]
 
 ## Original code
