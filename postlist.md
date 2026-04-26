@@ -9,7 +9,8 @@ critiques of published code.
 
 ## 2026
 
-- 11 Apr 2026: [Self-documenting data files](https://faithokamoto.github.io/2026-03-11-self-documenting-data-files/)
+- 25 Apr 2026: [Code is for running, not just reading](https://faithokamoto.github.io/2026-04-25-code-is-for-running-not-just-reading/)*
+- 11 Apr 2026: [Self-documenting data files](https://faithokamoto.github.io/2026-04-11-self-documenting-data-files/)
 - 29 Mar 2026: [Commit your clunkers](https://faithokamoto.github.io/2026-03-29-commit-your-clunkers/)
 - 21 Mar 2026: [Reading some tests](https://faithokamoto.github.io/2026-03-21-reading-some-tests/)*
 - 7 Mar 2026: [Putting scripts under version control](https://faithokamoto.github.io/2026-03-07-putting-scripts-under-version-control/)
