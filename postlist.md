@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2026
 
+- 16 May 2026: [Not every speedup is snazzy](https://faithokamoto.github.io/2026-05-16-not-every-speedup-is-snazzy/)
 - 2 May 2026: [Maybe it should do less](https://faithokamoto.github.io/2026-05-02-maybe-it-should-do-less/)
 - 25 Apr 2026: [Code is for running, not just reading](https://faithokamoto.github.io/2026-04-25-code-is-for-running-not-just-reading/)*
 - 11 Apr 2026: [Self-documenting data files](https://faithokamoto.github.io/2026-04-11-self-documenting-data-files/)
