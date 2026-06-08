@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2026
 
+- 7 Jun 2026: [On quick issues](https://faithokamoto.github.io/2026-06-07-on-quick-issues/)
 - 30 May 2026: [Releasing code without data](https://faithokamoto.github.io/2026-05-30-releasing-code-without-data/)*
 - 16 May 2026: [Not every speedup is snazzy](https://faithokamoto.github.io/2026-05-16-not-every-speedup-is-snazzy/)
 - 2 May 2026: [Maybe it should do less](https://faithokamoto.github.io/2026-05-02-maybe-it-should-do-less/)

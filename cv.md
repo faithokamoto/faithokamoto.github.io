@@ -11,12 +11,14 @@ Advisor: Dr. Benedict Paten ([UCSC Computational Genomics Lab][CGL])
 
 ## About me
 
-I'm Faith Okamoto, a bioinformatics PhD student who loves algorithms. I work on
-methods to better handle complex genomic regions. To that end I'm extending and
-applying the [vg toolkit][vg]. Pangenome sequence-graph references are supposed
-to better represent genetic variation compared to linear references. But
-pangenomic algorithms aren't quite as mature as we'd like them to be, so they
-still struggle with those complex regions. My job? Fix that.
+I'm Faith Okamoto, a bioinformatics PhD candidate who loves algorithms. I work
+on methods to better handle complex genomic regions. To that end I'm extending 
+and applying the [vg toolkit][vg], in particular `vg giraffe`'s long-read mode. 
+
+Pangenome sequence-graph references are supposed to better represent genetic 
+variation compared to linear references. But pangenomic algorithms aren't quite 
+as mature as we'd like them to be, so they still struggle with those complex 
+regions. My job? Fix that.
 
 ## Publications
 
