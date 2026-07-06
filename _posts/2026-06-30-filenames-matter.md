@@ -10,8 +10,8 @@ I saw that Li has another "mini" tool, so I though I'd look, as I did with
 [minimap2][Minimap2Blog]. Also, it's the literal last day of the month. Being on
 vacation does that to ya.
 
-This month's paper: Li H. Fast genomic read alignment with minibwa. *arXiv*
-2026. doi: [10.48550/arXiv.2606.15357][DOI]
+This month's paper: Li H and Homer N. Fast genomic read alignment with minibwa.
+*arXiv* 2026. doi: [10.48550/arXiv.2606.15357][DOI]
 
 ## Original code
 
