@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2026
 
+- 11 Jul 2026: [Give me a roadmap](https://faithokamoto.github.io/2026-07-11-give-me-a-roadmap/)*
 - 30 Jun 2026: [Filenames matter](https://faithokamoto.github.io/2026-06-30-filenames-matter/)*
 - 12 Jun 2026: [Removing deprecated subcommands](https://faithokamoto.github.io/2026-06-12-removing-deprecated-subcommands/)
 - 7 Jun 2026: [On quick issues](https://faithokamoto.github.io/2026-06-07-on-quick-issues/)
