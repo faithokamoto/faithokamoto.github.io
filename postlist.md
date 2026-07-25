@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2026
 
+- 25 Jul 2026: [Magic scripts still need documentation](https://faithokamoto.github.io/2026-07-25-magic-scripts-still-need-documentation/)*
 - 18 Jul 2026: [No one cares about your guts](https://faithokamoto.github.io/2026-07-18-no-one-cares-about-your-guts/)
 - 11 Jul 2026: [Give me a roadmap](https://faithokamoto.github.io/2026-07-11-give-me-a-roadmap/)
 - 30 Jun 2026: [Filenames matter](https://faithokamoto.github.io/2026-06-30-filenames-matter/)*
