@@ -22,29 +22,46 @@ regions. My job? Fix that.
 
 ## Publications
 
-- Chang *et al.* [including Okamoto F] 2025. Rapid, accurate long- and 
+- Eizenga *et al.* [including me] 2026. Pangenome alignment reveals global 
+diversity and evolution of human centromeric regions. *bioRxiv*. doi:
+[10.64898/2026.09.03.749043](https://doi.org/10.64898/2026.09.03.749043)
+- Lukas *et al.* [including me] 2026. HPRC2: A human pangenome reference with
+near-complete coverage of common genetic variation. *bioRxiv*. doi:
+[10.64898/2026.07.21.739710](https://doi.org/10.64898/2026.07.21.739710)
+- Nakamoto *et al.* [including me] 2026. Genome sequence of *Ceratocystis* 
+*huliohia*, a fungal pathogen of the native ‘Ōhi‘a tree in Hawai‘i. 
+*Microbiology Resource Announcements*. doi:
+[10.1128/mra.00236-26](https://doi.org/10.1128/mra.00236-26)
+- Jacobs *et al.* [including me] 2026. Complete *de novo* assembly of 
+*Wolbachia* endosymbiont of contemporary *Drosophila simulans* using long-read 
+genome sequencing. *Microbiology Resource Announcements*. doi:
+[10.1128/mra.00992-25](https://doi.org/10.1128/mra.00992-25)
+- Chang *et al.* [including me] 2025. Rapid, accurate long- and 
 short-read mapping to large pangenome graphs with vg Giraffe.
-*bioRxiv*.
-doi:[10.1101/2025.09.29.678807](https://doi.org/10.1101/2025.09.29.678807)
-- Okamoto *et al.* 2024. Y and Mitochondrial Chromosomes in the Heterogeneous
-Stock Rat Population. *G3: Genes|Genomes|Genetics*.
-doi:[10.1093/g3journal/jkae213][Okamoto2024]
-- Chen *et al.* [including Okamoto F] 2024. A Cost-effective, High-throughput,
+*bioRxiv*. doi:
+[10.1101/2025.09.29.678807](https://doi.org/10.1101/2025.09.29.678807)
+- Chen *et al.* [including me] 2024. A Cost-effective, High-throughput,
 Highly Accurate Genotyping Method for Outbred Populations.
-*G3: Genes|Genomes|Genetics*.
-doi:[10.1093/g3journal/jkae291](https://doi.org/10.1093/g3journal/jkae291)
+*G3: Genes|Genomes|Genetics*. doi:
+[10.1093/g3journal/jkae291](https://doi.org/10.1093/g3journal/jkae291)
+- Okamoto *et al.* 2024. Y and Mitochondrial Chromosomes in the Heterogeneous
+Stock Rat Population. *G3: Genes|Genomes|Genetics*. doi:
+[10.1093/g3journal/jkae213][Okamoto2024]
 
 ## Talks
 
-- [**"Y and mitochondrial chromosomes in the heterogeneous stock rat population"**](https://rgd.mcw.edu/rgdweb/common/abstracts/presentation/October-3rd/Session-1/4-Okamoto.pdf), 
-[Complex Trait Community](https://rgd.mcw.edu/rgdweb/ctc-rg2024/program.html),
-October 2024
 - **"Rapid, accurate long-read mapping to large pangenome graphs with vg Giraffe"**,
 UC Santa Cruz Long Reads Group, October 2025 (Also presented part of an
 identically named talk at the HPRC 2025 Annual Meeting)
+- [**"Y and mitochondrial chromosomes in the heterogeneous stock rat population"**](https://rgd.mcw.edu/rgdweb/common/abstracts/presentation/October-3rd/Session-1/4-Okamoto.pdf), 
+[Complex Trait Community](https://rgd.mcw.edu/rgdweb/ctc-rg2024/program.html),
+October 2024
 
 ## Posters
 
+- [**"Long Read Giraffe: Past, Present, Future**](./assets/pdf/Okamoto_2026_Long_Read_Giraffe_Past_Present_Future.pdf),
+ presented at [UC Systemwide Bioengineering Symposium](https://www.bic2026.org/) (August 2026)
+ and [Telomere-to-Telomere "Face-to-Face"](https://sites.google.com/ucsc.edu/t2t-f2f) (September 2026)
 - [**"Improved Chaining in non-DAG Regions for Long Read Giraffe"**](./assets/pdf/Okamoto_2026_Improved_Chaining_in_non_DAG_Regions_for_Long_Read_Giraffe_NHGRI_poster.pdf),
  presented at NHGRI Training Conference, March 2026
  ([prior version](./assets/pdf/Okamoto_2025_Improved_Chaining_in_non_DAG_Regions_for_Long_Read_Giraffe_HPRC_poster.pdf)
