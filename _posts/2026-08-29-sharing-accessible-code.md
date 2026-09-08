@@ -6,15 +6,15 @@ tags: [publications, code-availability]
 author: Faith Okamoto
 ---
 
-I'm first non-first author<sup>1</sup> on a paper that should be submitted 
-Tuesday.<sup>2</sup> This meant I spent a good portion of Thursday reading 
-through the nearly finalized text. I'll discuss one of my comments here.
+I'm on a paper that should be submitted Tuesday.<sup>1</sup> This meant I spent
+a good portion of Thursday reading  through the nearly finalized text. I'll
+discuss one of my comments here.
 
 ### Code availability policies
 
 Plenty of journals have a code availability policy. The first one I submitted a
 paper to, *G3 Genes|Genomes|Genetics*, has it under "Availability of data and
-materials"<sup>3</sup>:
+materials"<sup>2</sup>:
 
 > G3 requires all authors to publicly release all data and software code underlying any published paper as a condition of publication.
 
@@ -50,7 +50,7 @@ places where the Methods section would say things like:
 > The foo statistic was calculated with a custom R script (foo_calc.R)
 
 Why is this a problem? They told me what the code was, right? Well, I know what
-name the researcher used for that code file<sup>4</sup>. I have no idea what was 
+name the researcher used for that code file<sup>3</sup>. I have no idea what was 
 _in_ the file. If you want to reference scripts by name, sure, do that, but you 
 still need to tell me where they are. Link the GitHub repository at the start of 
 the section. Or link each script. Or any other way of allowing me to navigate 
@@ -64,15 +64,14 @@ rest of us to figure out what you did, m'kay?
 
 ---
 
-1. By this I mean I'm fourth author, since there are three first authors.
-2. Or it really should be, but the first of these "we're submitting the paper by
+1. Or it really should be, but the first of these "we're submitting the paper by
 DATE" deadlines I heard was around a year ago. This time we've actually managed
 to get a finished text and sent it to all the peripheral coauthors, though,
 which bodes well. Also there's a larger package we want to get into.
-3. I apparently did this too well; the editor had me do extra work to format
+2. I apparently did this too well; the editor had me do extra work to format
 stuff even better than policy required, because they wanted to use my code as an
 example for others. Or something like that. I'm paraphrasing my memory here.
-4. Though sometimes they left the `foo_calc.R` bit out.
+3. Though sometimes they left the `foo_calc.R` bit out.
 
 [CritiqueTag]: https://faithokamoto.github.io/tags/#published-code-critique
 [DocumentationTag]: https://faithokamoto.github.io/tags/#documentation
