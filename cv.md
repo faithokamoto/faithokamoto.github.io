@@ -50,6 +50,8 @@ Stock Rat Population. *G3: Genes|Genomes|Genetics*. doi:
 
 ## Talks
 
+- [**"How (not) to code into the void"**](https://docs.google.com/presentation/d/1dcfxZDWVErc-92avHdlV4qqy13tHz-zyWtNJwc0XyWI/edit?usp=sharing),
+UCSC PBSE Retreat 2026
 - **"Rapid, accurate long-read mapping to large pangenome graphs with vg Giraffe"**,
 UC Santa Cruz Long Reads Group, October 2025 (Also presented part of an
 identically named talk at the HPRC 2025 Annual Meeting)
