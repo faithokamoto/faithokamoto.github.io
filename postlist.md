@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2026
 
+- 12 Sep 2026: [Keeping track of results by commit](https://faithokamoto.github.io/2026-09-12-keeping-track-of-results-by-commit)
 - 7 Sep 2026: [The work is not in vain](https://faithokamoto.github.io/2026-09-07-the-work-is-not-in-vain)
 - 29 Aug 2026: [Sharing accessible code](https://faithokamoto.github.io/2026-08-29-sharing-accessible-code)
 - 15 Aug 2026: [Thanks for telling me how to contribute](https://faithokamoto.github.io/2026-08-15-thanks-for-telling-me-how-to-contribute)*

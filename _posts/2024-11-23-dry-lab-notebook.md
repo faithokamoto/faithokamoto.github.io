@@ -2,7 +2,7 @@
 layout: post
 title: Keeping a "dry lab" lab notebook
 subtitle: What did I do yesterday?
-tags: [process]
+tags: [process, notebook]
 author: Faith Okamoto
 ---
 
