@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2026
 
+- 17 Oct 2026: [Yes, code quality matters](https://faithokamoto.github.io/2026-10-17-yes-code-quality-matters)
 - 3 Oct 2026: [The path of least surprise](https://faithokamoto.github.io/2026-10-03-the-path-of-least-surprise)
 - 26 Sep 2026: [Knowing what to leave out](https://faithokamoto.github.io/2026-09-26-knowing-what-to-leave-out)*
 - 12 Sep 2026: [Keeping track of results by commit](https://faithokamoto.github.io/2026-09-12-keeping-track-of-results-by-commit)
