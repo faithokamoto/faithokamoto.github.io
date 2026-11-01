@@ -9,6 +9,7 @@ critiques of published code.
 
 ## 2026
 
+- 31 Oct 2026: [Take out the leftovers](https://faithokamoto.github.io/2026-10-31-take-out-the-leftovers)*
 - 24 Oct 2026: [Skip steps at your peril](https://faithokamoto.github.io/2026-10-24-skip-steps-at-your-peril)
 - 17 Oct 2026: [Yes, code quality matters](https://faithokamoto.github.io/2026-10-17-yes-code-quality-matters)
 - 3 Oct 2026: [The path of least surprise](https://faithokamoto.github.io/2026-10-03-the-path-of-least-surprise)
